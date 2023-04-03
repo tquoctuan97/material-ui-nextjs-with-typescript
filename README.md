@@ -5,7 +5,7 @@
 The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
 It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5. If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
 
-This project fork form [nextjs-with-typescript](https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript)
+This project fork form [material-next-ts](https://github.com/mui/material-ui/tree/master/examples/material-next-ts)
 
 Thank for [material-kit-react](https://github.com/minimal-ui-kit/material-kit-react) about theme folder structure
 
